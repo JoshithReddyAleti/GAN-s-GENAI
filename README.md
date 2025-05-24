@@ -12,11 +12,11 @@ Each image had a unique look even though the class (dog) remained constant.
 
 Some dogs appeared sitting, while others were in action or had different facial expressions.
 
-The background and fur color varied significantly — proving the model learned many internal features.
+The background and fur color varied significantly by proving the model learned many internal features.
 
 A few images had minor artifacts, like unusual edges or blurred textures, which is typical in GAN-generated content.
 
-When the noise vector changed, the visual characteristics changed as well — confirming the impact of the latent space.
+When the noise vector changed, the visual characteristics changed as well as confirming the impact of the latent space.
 
 Reflection
 This project deepened my understanding of how GANs create images from noise and how latent vectors influence image diversity. I learned how class conditioning and truncation affect output quality. A major takeaway is that GANs are not just random generators — they produce structured outputs from high-dimensional noise.
